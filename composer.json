@@ -1,0 +1,16 @@
+{
+    "name": "20847/yiye",
+    "description": "yiye test",
+    "authors": [
+        {
+            "name": "admin",
+            "email": "2084759131@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Admin\\Yiye": "src/"
+        }
+    },
+    "require": {}
+}
